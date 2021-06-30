@@ -1,7 +1,7 @@
 from termcolor import colored
 from pyfiglet import figlet_format
 
-print((colored(figlet_format("SUBDOMAIN SCANNER", font="future_1"), color="red")))
+print((colored(figlet_format("PORTSCANNER", font="future_1"), color="red")))
 print((colored("-------------------- Coded by Dzaki Althalsyah -------------------- \n", color="blue")))
 print((colored("Github: https://github.com/dzakialthalsyah/   ||   Instagram: https://instagram.com/dzakialthalsyah/ \n\n\n", color="cyan")))
 
